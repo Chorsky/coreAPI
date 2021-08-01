@@ -1,0 +1,2 @@
+# coreAPI
+ASP .NET WEB API + ANGULAR 12
